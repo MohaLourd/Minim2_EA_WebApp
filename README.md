@@ -45,6 +45,17 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+MINIM 2 EA:
+
+Un usuari a la secció de conctat de la Navbar del nostre projecte pot fer contactar amb noslatres, fent una valoració, sugerencia o deportant un error:
+
+![imagen](https://github.com/user-attachments/assets/d211e594-63d5-4ead-8269-bae67f17eef9)
+
+
+![imagen](https://github.com/user-attachments/assets/76d94add-853e-4761-b160-65dd2d1e2f2b)
+![imagen](https://github.com/user-attachments/assets/ddacfd22-36dd-4b44-b873-a347e9f90998)
+![imagen](https://github.com/user-attachments/assets/87adac58-8304-45b4-8691-d84f970cda1e)
+
 ![imagen](https://github.com/user-attachments/assets/d4f7f8c2-52d4-4e58-903d-9c283278d461)
 
 
