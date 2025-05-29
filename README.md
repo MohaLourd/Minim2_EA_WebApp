@@ -44,3 +44,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Minim2:
+
+Que un usuario sea capaz de poder enviar un feedback, haciendo una valoración, reportando un error o una sugerencia. 
+![imagen](https://github.com/user-attachments/assets/f0ccdef2-b410-4122-ac2d-8699053052d3)
+![imagen](https://github.com/user-attachments/assets/0820a974-cf7b-4336-accb-0fc1fa592e27)
+![imagen](https://github.com/user-attachments/assets/ee6c6238-cf32-4b5b-bcbf-4b6c8e4dd8a4)
+
+
+
+
